@@ -1,0 +1,11 @@
+venv/
+test_call.py
+
+__pycache__/
+
+.env.local
+
+tmp/
+
+.venv/
+test.py
