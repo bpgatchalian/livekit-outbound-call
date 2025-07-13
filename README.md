@@ -1,4 +1,4 @@
-# LiveKit Outbound Caller
+# LiveKit Outbound Call
 
 Create a environment and install require packages.
 ```
